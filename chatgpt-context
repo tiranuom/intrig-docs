@@ -1,0 +1,19 @@
+Project Name:
+Intrig
+
+Project Overview:
+You are developing a TypeScript library/framework aimed at integrating backend APIs and databases across various platforms including Angular, React, Vue, and Node. The primary goal is to reduce developer effort and increase reliability. The pilot project for React was successful.
+
+Framework Components:
+
+CLI for meta-level tasks (config management, code generation, initialization).
+Runtime utilities to run generated code.
+A plugin-based system for technology-specific functionalities (e.g., an OpenAPI3 plugin for Swagger and a React plugin for generating hooks).
+Roadmap & Development:
+Plans to expand based on technological trends, with considerations of including AI (like ChatGPT) to improve efficiency.
+
+Monetization & Licensing:
+You're considering a free-to-use model but are also exploring ways to monetize the framework, and you're leaning towards a copyleft license to prevent plagiarism and ensure contributions are open-sourced.
+
+Marketing:
+You're looking for tools and strategies to market the framework once it's ready.

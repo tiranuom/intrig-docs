@@ -1,0 +1,18 @@
+---
+---
+
+@import '{{ site.theme }}';
+
+/* append your custom style below */
+
+.features-row {
+  display: flex;
+  justify-content: space-between;
+}
+
+.feature-column {
+  width: 30%; /* Dividing by a bit less than a third to allow for some spacing */
+  box-shadow: 0px 0px 5px rgba(0,0,0,0.2); /* Optional: Adds a light shadow for a card effect */
+  padding: 15px;
+  margin: 10px; /* To create some space between columns */
+}
