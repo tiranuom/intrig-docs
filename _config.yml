@@ -192,5 +192,5 @@ jekyll-archives:
     reference: reference
     learn: learn
   permalinks:
-    tag: /reference/:name/
-    category: /learn/:name/
+    reference: /reference/:name/
+    learn: /learn/:name/
