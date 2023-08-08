@@ -41,9 +41,16 @@ Welcome to **Intrig** — the forefront of seamless integration. Crafted meticul
 
 ## Roadmap & Development
 
-At **Intrig**, we're always looking ahead. Our roadmap is expansive, encompassing emerging technological trends. Stay tuned as we plan on integrating AI capabilities like ChatGPT to revolutionize development even further.
+At **Intrig**, we're on a mission to redefine the future of development through innovative integrations. Our roadmap is a dynamic journey, starting with the building and completion of a robust CLI, with React and OpenAPI3 integrations at its core.
+
+Following this foundation, we'll be expanding into various realms of technology, weaving seamless connections with Angular, OpenAPI2, and Node. The integration journey continues, bridging gaps with Express servers and unleashing the potential of Vue and SQLite.
+
+Our vision doesn't stop with these milestones. We'll keep adapting and growing, introducing similar integrations and enhancing tool functionalities to align with the evolving technological landscape.
+
+Stay tuned as we explore possibilities like integrating AI capabilities such as ChatGPT, bringing us closer to our goal of revolutionizing development even further.
 
 ---
+
 
 ## Monetization & Licensing
 
@@ -53,7 +60,7 @@ While **Intrig** is leaning towards a free-to-use model, we're exploring avenues
 
 ## Get Started
 
-Eager to harness the power of **Intrig**? Dive into our [documentation](#link-to-docs) or explore our [GitHub repository](#link-to-repo).
+Eager to harness the power of **Intrig**? Dive into our [documentation](#link-to-docs) or explore our [GitHub repository](https://github.com/tiranuom/intrig).
 
 ---
 
