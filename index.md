@@ -54,7 +54,11 @@ Stay tuned as we explore possibilities like integrating AI capabilities such as 
 
 ## Monetization & Licensing
 
-While **Intrig** is leaning towards a free-to-use model, we're exploring avenues for monetization to sustain and innovate. Our copyleft license ensures open-sourced contributions, fostering a community of shared growth.
+At **Intrig**, we believe in accessibility and innovation. While we're leaning towards a free-to-use model, we understand the importance of sustaining and growing our project. We're actively exploring avenues for monetization that align with our core values and community-driven approach.
+
+Licensing is an essential aspect of our project, and we're taking the time to consider the best approach. Our decision will reflect a commitment to openness, collaboration, and ethical development, but we haven't finalized the details just yet.
+
+Join us on this exciting journey and stay tuned for updates on our licensing model. Together, we'll shape a future where technology is not just advanced but also inclusive and responsible.
 
 ---
 
